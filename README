@@ -1,0 +1,27 @@
+# Java Learning
+
+A collection of exercises and small projects for learning Java, starting from
+fundamentals and building toward backend web development.
+
+## Structure
+
+The repo is organized by topic. Each folder contains focused exercises and a
+small project that ties the concepts together.
+
+- **Fundamentals** — types, control flow, methods, arrays, and strings
+- **Object-Oriented Java** — classes, inheritance, interfaces, enums
+- **Practical Java** — collections, exceptions, streams, file I/O
+- **Tooling & Testing** — build tools and unit testing with JUnit
+- **Backend** — building REST APIs with Spring Boot
+
+## Requirements
+
+- JDK 21
+- Any Java-capable editor (VS Code with the Extension Pack for Java works well)
+
+## Running
+
+Each `.java` file can be compiled and run individually:
+
+    javac Example.java
+    java Example
